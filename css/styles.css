@@ -1,11 +1,12 @@
 h1 {
   font-family: sans-serif;
-  font-size: 30;
-  color: blue;
+  font-size: 45;
+  color: #545272;
 }
 
 body {
   font-family: sans-serif;
-  background-color: #ffffe0;
+  background-color: #a9a8b7;
+  color: #525160;
   text-align: center;
 }
